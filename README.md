@@ -1,6 +1,6 @@
 # Airport Simulation
 
-This program implements a queue data structure to provide the user with arbitrary analytics on a ficticious Airport simulation.
+This program implements a queue data structure to provide the user with arbitrary analytics on a fictitious airport simulation.
 
 Testing Documentation:
 
