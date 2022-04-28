@@ -1,1 +1,414 @@
-<mxfile host="app.diagrams.net" modified="2022-04-27T21:30:33.429Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="LDVie_57iIck9d6gKo5z" version="17.4.6" type="github"><diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">7Vttb5s6GP01SHcfVoEJSfuxYckmLbmr2m77eOWCA9YIRsZ526+fDTaEOGlhd2m8JlLUwMMTg59zfGyfJpbrz9cfKcziKQlRYgE7XFvuBwsABwCXv4nIpowMbgZlIKI4lEl14AH/RDJoy+gChyhvJDJCEoazZjAgaYoC1ohBSsmqmTYjSfOuGYyQFngIYKJHv+OQxWX02rPr+CeEo1jd2bHllTlUyTKQxzAkq0YIrdmYpEw+4h2ic5iilPErU0h/IGp5o5gx0dNbC4z5ayayryJCogTBDOdXAZnzcJDzlPEMznEiyrzV0FA2xG/njizXp4Sw8mi+9lEisFIwlM80PnC1qgMV7bb4gP9+uZn8sFn6aeV+Y9NpdDd4ei9bWcJkIesra8M2quAo5PWXp/xWmG3uUQIZJumovjJEaXgr0OVJo/ufiJJHMoUp7/wwZ5Cy+hpJZfoY88dzPzgqRZ7b/FzvmnzOnCxogJ7pD+hJSkIaIfZMYl8CHjbYJiv3EZE5YnTDE1Y1xyomxdv8UkFaFGXZZCmUTIqqBqt73BFcEEsOTLcn21HDUlFSNVF2XX5qG+adhno7DfV3GypLozXED7Y6XocKFnVhFHhjlHJbMsoZGEapnt1kgnP9u5TqNxsCtveqlNIZ9YWGiOYar7iiZ+KQwaeCQQUJ5BTmChbwSYlBnHL9LVkSkCSBWY6L9DIS4yScwA1ZMNWQOhvO8BqF9+UMJnI5/ya8sVxSTMwFitXiMkxwlPLjgFNO3HFIUc6fZQJzJjMOknKJKEPrZ1mksPF2QFbDfYtlwNvHMtc+TKgGgl3hcl8WAAUU7zrDMLnnCwWYRgVmTUhEXUNKskc1+kQgE0RDdLRE5VRdFJ8PdZ8kRCCbloJQpBWd84b8xbvr21ee5fEH8Pm5U5/zl0inzCdpzijEBRyIA7VCAqwhI5m8T4Jm6jGoLKY4fiKM8Zn/EKzP0vplrCW2bktoj4ZsT0P27nMXbAnv6ywpVDvGYYjSckiKdSKs8d4D5d76VzXfBWN3ILbEw22NxxYA7mvW39PqT4QQ/sc/5APr1i5V+98vj+Lv18nEqpa6JsGjdLHMHeYZDHAaTcpP9nfw846B39o6OJ7Aa+LZP2el3L8q+zNK2T+1Ug40ZMefnS7gvtJYbAlAvzUAp5LGa63gwSLnfS7VEeyRRuOweFEX/zhYpujgzUUHj6ODN6fWQeUa/ia0ZqngTevyn0oFHd3PK1eIIWSIx+XbWchge7RMkUFH3zk/xDibF6J18To0rwNct5S343kdjr4lPqOpq8Pm2mm/OzPF7XD07fZbsjsq6ho8nekb5FwK4sXz6AqiMbOcvjc+I8nssNzsLpkntz0cfRv+V/seFVcN1kh981yZwmdle3TAyhQpBP9vd3yRQoOdD6BvxQ0cfC3rXxHVXB1U5d23VjxD96MDYsaooW5/+NLDv9gf1tZXOzp/1cM+GmQX+6PlcPz77A/wtu0PYL79AXT746V/ap6T99EBQWOmuIv3cSy9PLn3AXTvw8DB2Lb+5hsfQDc+KnVM4Vys9IMY0n88+93ZLPpNskD4af3jlvKr4PUvktzRLw==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-28T09:06:51.491Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="mhT9S9wbZfXEwW7FJRaC" version="17.4.6" type="github">
+  <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
+    <mxGraphModel dx="1435" dy="1058" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-23" value="UserData" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" parent="1" vertex="1">
+          <mxGeometry x="120" y="120" width="250" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-24" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
+          <mxGeometry y="30" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-25" value="K" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-26" value="user_uuid(hash with user_FS_Key)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" parent="C-vyLk0tnHw3VtMMgP7b-24" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-27" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" parent="C-vyLk0tnHw3VtMMgP7b-23" vertex="1">
+          <mxGeometry y="60" width="250" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-28" value="V" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
+          <mxGeometry width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="C-vyLk0tnHw3VtMMgP7b-29" value="Encrypted User Data (Marshal -&gt; Enc)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" parent="C-vyLk0tnHw3VtMMgP7b-27" vertex="1">
+          <mxGeometry x="30" width="220" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-1" value="Key Store" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="100" y="290" width="260" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-3" value="Username&lt;br&gt;RSA public Key" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-1">
+          <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-4" value="Init User" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="570" width="450" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-5" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-4">
+          <mxGeometry y="30" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-6" value="UUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-5">
+          <mxGeometry width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-7" value="user_uuid(hash with username+password)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-5">
+          <mxGeometry x="90" width="360" height="30" as="geometry">
+            <mxRectangle width="360" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-8" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-4">
+          <mxGeometry y="60" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-9" value="Encryption" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-8">
+          <mxGeometry width="90" height="30" as="geometry">
+            <mxRectangle width="90" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-10" value="Encrypted User Data (Marshal -&gt; Enc)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-8">
+          <mxGeometry x="90" width="360" height="30" as="geometry">
+            <mxRectangle width="360" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-11" value="Store User Updates" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="850" width="560" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-12" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-11">
+          <mxGeometry y="30" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-13" value="Decrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-12">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-14" value="user_uuid(hash with username+password)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-12">
+          <mxGeometry x="100" width="460" height="30" as="geometry">
+            <mxRectangle width="460" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-15" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-11">
+          <mxGeometry y="60" width="560" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-16" value="Encrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-15">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-17" value="Encrypted User Data (Marshal -&gt; Enc)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-15">
+          <mxGeometry x="100" width="460" height="30" as="geometry">
+            <mxRectangle width="460" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-18" value="Get User" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="710" width="430" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-19" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-18">
+          <mxGeometry y="30" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-20" value="KeyStore" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-19">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-21" value="username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-19">
+          <mxGeometry x="100" width="330" height="30" as="geometry">
+            <mxRectangle width="330" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-22" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-18">
+          <mxGeometry y="60" width="430" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-23" value="V" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-22">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-24" value="Encrypted User Data (Marshal -&gt; Enc)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-22">
+          <mxGeometry x="100" width="330" height="30" as="geometry">
+            <mxRectangle width="330" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-25" value="Store File" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="300" width="380" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-26" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-25">
+          <mxGeometry y="30" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-27" value="File UUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-26">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-28" value="filename + username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-26">
+          <mxGeometry x="100" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-29" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-25">
+          <mxGeometry y="60" width="380" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-30" value="Encrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-29">
+          <mxGeometry width="100" height="30" as="geometry">
+            <mxRectangle width="100" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-31" value="Encrypted User Data (Marshal -&gt; Enc)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-29">
+          <mxGeometry x="100" width="280" height="30" as="geometry">
+            <mxRectangle width="280" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-32" value="INVITED" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="250" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-34" value="OWNER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="360" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-40" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=-0.033;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-29" target="1YZK27q-Za8lSJ4K36wr-34">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="750" as="sourcePoint" />
+            <mxPoint x="750" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-41" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-25" target="1YZK27q-Za8lSJ4K36wr-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="750" as="sourcePoint" />
+            <mxPoint x="750" y="700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-42" value="File Invite&lt;br&gt;Get owner for decryption&lt;br&gt;&amp;amp;&lt;br&gt;Unmarshall" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="210" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-43" value="File Invite&lt;br&gt;Get owner for decryption&lt;br&gt;&amp;amp;&lt;br&gt;Unmarshall" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1135" y="360" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-44" value="New File" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="960" y="490" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-45" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.867;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-29" target="1YZK27q-Za8lSJ4K36wr-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="580" as="sourcePoint" />
+            <mxPoint x="750" y="530" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-46" value="Store File Meta Data&lt;br&gt;filename + username" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1140" y="520" width="145" height="145" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-47" value="Append To File" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="755" y="770" width="305" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-48" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-47">
+          <mxGeometry y="30" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-49" value="File UUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-48">
+          <mxGeometry width="85" height="30" as="geometry">
+            <mxRectangle width="85" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-50" value="filename+username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-48">
+          <mxGeometry x="85" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-51" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-47">
+          <mxGeometry y="60" width="305" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-52" value="Encrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-51">
+          <mxGeometry width="85" height="30" as="geometry">
+            <mxRectangle width="85" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-53" value="Encrypted User Data (Marshal -&gt; Enc)" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-51">
+          <mxGeometry x="85" width="220" height="30" as="geometry">
+            <mxRectangle width="220" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-60" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-54" target="1YZK27q-Za8lSJ4K36wr-57">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-54" value="INVITED" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1275" y="720" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-55" value="OWNER" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1235" y="870" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-56" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-48" target="1YZK27q-Za8lSJ4K36wr-54">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="600" as="sourcePoint" />
+            <mxPoint x="750" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-57" value="Datastore Gets Invite&lt;br&gt;UUID&lt;br&gt;&amp;amp; decrypts based on the original owner username" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1440" y="690" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-61" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-51" target="1YZK27q-Za8lSJ4K36wr-55">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="550" as="sourcePoint" />
+            <mxPoint x="750" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-62" value="Datastore Gets Invite&lt;br&gt;UUID&lt;br&gt;&amp;amp; decrypts based on the original owner username" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1430" y="850" width="140" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-63" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-55" target="1YZK27q-Za8lSJ4K36wr-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1360" y="910" as="sourcePoint" />
+            <mxPoint x="750" y="500" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-64" value="Create Invite by OWNER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="1010" width="325" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-65" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-64">
+          <mxGeometry y="30" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-66" value="File UUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-65">
+          <mxGeometry width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-67" value="filename+username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-65">
+          <mxGeometry x="130" width="195" height="30" as="geometry">
+            <mxRectangle width="195" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-68" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-64">
+          <mxGeometry y="60" width="325" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-69" value="Marshall / Encrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-68">
+          <mxGeometry width="130" height="30" as="geometry">
+            <mxRectangle width="130" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-70" value="username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-68">
+          <mxGeometry x="130" width="195" height="30" as="geometry">
+            <mxRectangle width="195" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-71" value="Update FileMetaData" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="540" y="1020" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-72" value="Data Store" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="750" y="992.5" width="260" height="135" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-73" value="File UUID&lt;br&gt;Encrypted File" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-72">
+          <mxGeometry x="70" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-74" value="" style="endArrow=none;html=1;rounded=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-71" target="1YZK27q-Za8lSJ4K36wr-72">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1050" as="sourcePoint" />
+            <mxPoint x="750" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-76" value="" style="endArrow=none;html=1;rounded=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-65" target="1YZK27q-Za8lSJ4K36wr-71">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1050" as="sourcePoint" />
+            <mxPoint x="750" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-77" value="Create&lt;br&gt;File Invite" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="450" y="1350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-78" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-85" target="1YZK27q-Za8lSJ4K36wr-92">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1050" as="sourcePoint" />
+            <mxPoint x="750" y="1000" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-79" value="Data Store" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="405" y="1480" width="205" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-80" value="FileInviteUUID&lt;br&gt;Encrypted File Invite" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-79">
+          <mxGeometry x="42.5" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-85" value="Create Invite by NON- OWNER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="110" y="1210" width="450" height="100" as="geometry">
+            <mxRectangle x="150" y="1220" width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-86" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-85">
+          <mxGeometry y="30" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-87" value="File UUID / FileInviteUUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-86">
+          <mxGeometry width="190" height="30" as="geometry">
+            <mxRectangle width="190" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-88" value="filename+username / filename+password" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-86">
+          <mxGeometry x="190" width="260" height="30" as="geometry">
+            <mxRectangle width="260" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-89" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-85">
+          <mxGeometry y="60" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-90" value="Marshall / Encrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-89">
+          <mxGeometry width="190" height="30" as="geometry">
+            <mxRectangle width="190" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-91" value="original author username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-89">
+          <mxGeometry x="190" width="260" height="30" as="geometry">
+            <mxRectangle width="260" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-92" value="Update FileMetaData&lt;br&gt;to add new user access" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1350" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-93" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.538;entryY=-0.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-92" target="1YZK27q-Za8lSJ4K36wr-94">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="640" y="1070" as="sourcePoint" />
+            <mxPoint x="690" y="1020" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-94" value="Data Store" style="swimlane;" vertex="1" parent="1">
+          <mxGeometry x="180" y="1480" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-95" value="File UUID&lt;br&gt;Encrypted File" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-94">
+          <mxGeometry x="30" y="40" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-96" value="" style="endArrow=none;html=1;rounded=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-85" target="1YZK27q-Za8lSJ4K36wr-77">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1220" as="sourcePoint" />
+            <mxPoint x="750" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-97" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="1YZK27q-Za8lSJ4K36wr-77" target="1YZK27q-Za8lSJ4K36wr-79">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="700" y="1220" as="sourcePoint" />
+            <mxPoint x="750" y="1170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-99" value="Accept Invite by NON- OWNER" style="shape=table;startSize=30;container=1;collapsible=1;childLayout=tableLayout;fixedRows=1;rowLines=0;fontStyle=1;align=center;resizeLast=1;" vertex="1" parent="1">
+          <mxGeometry x="720" y="1250" width="450" height="100" as="geometry">
+            <mxRectangle x="150" y="1220" width="210" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-100" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-99">
+          <mxGeometry y="30" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-101" value="Invite UUID / FileInviteUUID" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;fontStyle=1;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-100">
+          <mxGeometry width="190" height="30" as="geometry">
+            <mxRectangle width="190" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-102" value="filename+password" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;fontStyle=5;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-100">
+          <mxGeometry x="190" width="260" height="30" as="geometry">
+            <mxRectangle width="260" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-103" value="" style="shape=partialRectangle;collapsible=0;dropTarget=0;pointerEvents=0;fillColor=none;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;top=0;left=0;right=0;bottom=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-99">
+          <mxGeometry y="60" width="450" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-104" value="Marshall / Encrypt" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-103">
+          <mxGeometry width="190" height="30" as="geometry">
+            <mxRectangle width="190" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-105" value="original author username" style="shape=partialRectangle;overflow=hidden;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;" vertex="1" parent="1YZK27q-Za8lSJ4K36wr-103">
+          <mxGeometry x="190" width="260" height="30" as="geometry">
+            <mxRectangle width="260" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-106" value="Store into File Invites Struct" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="1030" y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-107" value="Update FileMetaData&lt;br&gt;to add new user access" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="805" y="1400" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="1YZK27q-Za8lSJ4K36wr-108" value="" style="whiteSpace=wrap;html=1;aspect=fixed;shadow=1;" vertex="1" parent="1">
+          <mxGeometry x="90" y="1820" width="150" height="150" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
